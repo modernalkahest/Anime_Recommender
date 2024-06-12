@@ -1,5 +1,0 @@
-pandas
-numpy
-scikit-learn
-streamlit
-# Add other libraries your script depends on
